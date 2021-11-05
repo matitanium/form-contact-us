@@ -1,13 +1,10 @@
 $(function () {
 
-    // init the validator
-    // validator files are included in the download package
-    // otherwise download from http://1000hz.github.io/bootstrap-validator
+<!-- code by matin noriyan -> matitanium https://github.com/matitanium/form-contact-us -->
 
     $('#contact-form').validator();
 
 
-    // when the form is submitted
     $('#contact-form').on('submit', function (e) {
 
         // if the validator does not prevent form submit

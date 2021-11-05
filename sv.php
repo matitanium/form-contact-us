@@ -1,7 +1,7 @@
 
 <?php
 /*
- *  CONFIGURE EVERYTHING HERE
+ <!-- code by matin noriyan -> matitanium https://github.com/matitanium/form-contact-us -->*  
  */
 
 // an email address that will be in the From field of the email.
